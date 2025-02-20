@@ -1,3 +1,2 @@
 # git-training
-day 1:20/2/25
-learned about : git setup, git config, git clone 
+dtrying it in ec2 linux server
